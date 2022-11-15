@@ -1,0 +1,9 @@
+.line{
+    width: 100%;
+    max-width: 7rem;
+    height: 0.26rem;
+    background-color: #182f44;
+}
+.iconColor{
+    color: #182f44;
+}
