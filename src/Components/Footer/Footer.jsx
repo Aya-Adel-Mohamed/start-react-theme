@@ -10,7 +10,7 @@ export default function Footer() {
     <footer className={styles.footer}>
             <div className="container">
                 <div className="row">
-                  <div className="col-lg-4 mb-5 mb-lg-0 my-3">
+                  <div className="col-lg-4 mb-5 mb-lg-0 mt-3">
                   <h4 class={`${styles.footerHeader} mb-4 fw-bold`}>LOCATION</h4>
                   <p className='content mb-0'>2215 John Daniel Drive</p>
                   <p className={styles.contant}>Clark, MO 65243</p>
